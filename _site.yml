@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "P8105 Website"
 output_dir: "."
 navbar:
   title: "Home"
@@ -6,9 +6,9 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<rk3445@columbia.edu>
+      href: "mailto:rk3445@columbia.edu"
     - icon: fa-github fa-lg
-      href: http://github.com/rosiekwon/
+      href: "https://github.com/rosiekwon/"
 output:
   html_document:
     theme: cerulean
